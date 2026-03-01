@@ -19,7 +19,7 @@ The application allows users to add tasks using prompts, store them in an array 
 - Display:
   - All tasks in the console
   - Completed tasks only
-- Responsive layout (Desktop, Tablet, Mobile)
+- Responsive layout (Desktop, Tablet, Mobil)
 
 ---
 
