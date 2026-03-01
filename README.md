@@ -13,9 +13,9 @@ The application allows users to add tasks using prompts, store them in an array 
 - Add tasks using `prompt()`
 - Store tasks as objects in an array
 - Automatically generate unique incremental IDs
-- Validate task status (`todo`, `doing`, `done`).
-- Limit total tasks to 6.
-- Alert user when the board is full.
+- Validate task status (`todo`, `doing`, `done`)
+- Limit total tasks to 6
+- Alert user when the board is full
 - Display:
   - All tasks in the console
   - Completed tasks only
