@@ -25,7 +25,7 @@ The application allows users to add tasks using prompts, store them in an array 
 
 ## 🛠️ Technologies Used
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
